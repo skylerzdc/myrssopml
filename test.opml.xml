@@ -5,9 +5,9 @@
     <dateCreated>Sun, 22 Dec 2024 14:25:34 +0800</dateCreated>
   </head>
   <body>
-    <outline text="B站合集进度2">
-      <outline text="小约翰可汗2-奇葩小国" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/collection/23947287/665" htmlUrl="https://space.bilibili.com/23947287/channel/collectiondetail?sid=665"/>
-      <outline text="小约翰可汗2-硬核狠人" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/collection/23947287/3491" htmlUrl="https://space.bilibili.com/23947287/channel/collectiondetail?sid=3491"/>
+    <outline text="测试动态">
+      <outline text="小约翰可汗-神奇组织" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/collection/23947287/1095498" htmlUrl="https://space.bilibili.com/23947287/channel/collectiondetail?sid=1095498"/>
+      <outline text="墨言浮塵-GDC讲座" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/collection/14059270/1156933" htmlUrl="https://space.bilibili.com/14059270/channel/collectiondetail?sid=1156933"/>
     </outline>
   </body>
 </opml>
