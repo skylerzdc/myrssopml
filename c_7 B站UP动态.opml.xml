@@ -6,25 +6,25 @@
   </head>
   <body>
     <outline text="B站UP动态">
-      <outline text="动漫-名作之壁吧" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/2859372" htmlUrl="https://rsshub.umzzz.com"/>
-      <outline text="动漫-泛式" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/63231" htmlUrl="https://rsshub.umzzz.com"/>
-      <outline text="时政-小Q不是导盲犬" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/546189" htmlUrl="https://rsshub.umzzz.com"/>
+      <outline text="动漫-名作之壁吧" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/2859372" htmlUrl="https://space.bilibili.com/2859372/dynamic"/>
+      <outline text="动漫-泛式" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/63231" htmlUrl="https://space.bilibili.com/63231/dynamic"/>
+      <outline text="时政-小Q不是导盲犬" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/546189" htmlUrl="https://space.bilibili.com/546189/dynamic"/>
       <outline text="时政-小约翰可汗" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/23947287" htmlUrl="https://space.bilibili.com/23947287/dynamic"/>
-      <outline text="时政-律师老韩" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/2052851329" htmlUrl="https://rsshub.umzzz.com"/>
+      <outline text="时政-律师老韩" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/2052851329" htmlUrl="https://space.bilibili.com/2052851329/dynamic"/>
       <outline text="时政-徐德智在联合国" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/7380321" htmlUrl="https://space.bilibili.com/7380321/dynamic"/>
-      <outline text="时政-星话大白" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/2233213" htmlUrl="https://rsshub.umzzz.com"/>
-      <outline text="时政-沈逸老师" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/648113003" htmlUrl="https://rsshub.umzzz.com"/>
-      <outline text="时政-波士顿圆脸" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/346563107" htmlUrl="https://rsshub.umzzz.com"/>
+      <outline text="时政-星话大白" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/2233213" htmlUrl="https://space.bilibili.com/2233213/dynamic"/>
+      <outline text="时政-沈逸老师" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/648113003" htmlUrl="https://space.bilibili.com/648113003/dynamic"/>
+      <outline text="时政-波士顿圆脸" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/346563107" htmlUrl="https://space.bilibili.com/346563107/dynamic"/>
       <outline text="时政-燕三嘤嘤嘤" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/430426421" htmlUrl="https://space.bilibili.com/430426421/dynamic"/>
-      <outline text="游戏-iii计划" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/3546638813497663" htmlUrl="https://rsshub.umzzz.com"/>
-      <outline text="游戏-Tdogegg" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/2959632" htmlUrl="https://rsshub.umzzz.com"/>
-      <outline text="游戏-嗨游君" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/220746669" htmlUrl="https://rsshub.umzzz.com"/>
-      <outline text="游戏-墨言浮塵" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/14059270" htmlUrl="https://rsshub.umzzz.com"/>
-      <outline text="游戏-独立游戏蜥蜴君" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/413703" htmlUrl="https://rsshub.umzzz.com"/>
-      <outline text="游戏-独立游戏麻雀IO" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/409647289" htmlUrl="https://rsshub.umzzz.com"/>
-      <outline text="游戏-纯黑-" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/585267" htmlUrl="https://rsshub.umzzz.com"/>
+      <outline text="游戏-iii计划" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/3546638813497663" htmlUrl="https://space.bilibili.com/3546638813497663/dynamic"/>
+      <outline text="游戏-Tdogegg" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/2959632" htmlUrl="https://space.bilibili.com/2959632/dynamic"/>
+      <outline text="游戏-嗨游君" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/220746669" htmlUrl="https://space.bilibili.com/220746669/dynamic"/>
+      <outline text="游戏-墨言浮塵" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/14059270" htmlUrl="https://space.bilibili.com/14059270/dynamic"/>
+      <outline text="游戏-独立游戏蜥蜴君" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/413703" htmlUrl="https://space.bilibili.com/413703/dynamic"/>
+      <outline text="游戏-独立游戏麻雀IO" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/409647289" htmlUrl="https://space.bilibili.com/409647289/dynamic"/>
+      <outline text="游戏-纯黑-" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/585267" htmlUrl="https://space.bilibili.com/585267/dynamic"/>
       <outline text="游戏-老K遊戲" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/616850532" htmlUrl="https://space.bilibili.com/616850532/dynamic"/>
-      <outline text="游戏-老戴在此" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/2142762" htmlUrl="https://rsshub.umzzz.com"/>
+      <outline text="游戏-老戴在此" type="rss" xmlUrl="https://rsshub.umzzz.com/bilibili/user/dynamic/2142762" htmlUrl="https://space.bilibili.com/2142762/dynamic"/>
     </outline>
   </body>
 </opml>
